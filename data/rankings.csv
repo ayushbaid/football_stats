@@ -1,0 +1,461 @@
+league,SeasonDate,rank,team
+la_liga,2018,1,Barcelona
+la_liga,2018,2,Atletico Madrid
+la_liga,2018,3,Real Madrid
+la_liga,2018,4,Valencia
+la_liga,2018,5,Getafe
+la_liga,2018,6,Sevilla
+la_liga,2018,7,Espanyol
+la_liga,2018,8,Athletic Bilbao
+la_liga,2018,9,Real Sociedad
+la_liga,2018,10,Real Betis
+la_liga,2018,11,Alaves
+la_liga,2018,12,Eibar
+la_liga,2018,13,Leganes
+la_liga,2018,14,Villarreal
+la_liga,2018,15,Levante
+la_liga,2018,16,Real Valladolid
+la_liga,2018,17,Celta Vigo
+la_liga,2018,18,Girona
+la_liga,2018,19,SD Huesca
+la_liga,2018,20,Rayo Vallecano
+la_liga,2017,1,Barcelona
+la_liga,2017,2,Atletico Madrid
+la_liga,2017,3,Real Madrid
+la_liga,2017,4,Valencia
+la_liga,2017,5,Villarreal
+la_liga,2017,6,Real Betis
+la_liga,2017,7,Sevilla
+la_liga,2017,8,Getafe
+la_liga,2017,9,Eibar
+la_liga,2017,10,Girona
+la_liga,2017,11,Espanyol
+la_liga,2017,12,Real Sociedad
+la_liga,2017,13,Celta Vigo
+la_liga,2017,14,Alaves
+la_liga,2017,15,Levante
+la_liga,2017,16,Athletic Bilbao
+la_liga,2017,17,Leganes
+la_liga,2017,18,Deportivo La Coruna
+la_liga,2017,19,Las Palmas
+la_liga,2017,20,Malaga
+la_liga,2016,1,Real Madrid
+la_liga,2016,2,Barcelona
+la_liga,2016,3,Atletico Madrid
+la_liga,2016,4,Sevilla
+la_liga,2016,5,Villarreal
+la_liga,2016,6,Real Sociedad
+la_liga,2016,7,Athletic Bilbao
+la_liga,2016,8,Espanyol
+la_liga,2016,9,Alaves
+la_liga,2016,10,Eibar
+la_liga,2016,11,Malaga
+la_liga,2016,12,Valencia
+la_liga,2016,13,Celta Vigo
+la_liga,2016,14,Las Palmas
+la_liga,2016,15,Real Betis
+la_liga,2016,16,Deportivo La Coruna
+la_liga,2016,17,Leganes
+la_liga,2016,18,Sporting Gijon
+la_liga,2016,19,Osasuna
+la_liga,2016,20,Granada
+la_liga,2015,1,Barcelona
+la_liga,2015,2,Real Madrid
+la_liga,2015,3,Atletico Madrid
+la_liga,2015,4,Villarreal
+la_liga,2015,5,Athletic Bilbao
+la_liga,2015,6,Celta Vigo
+la_liga,2015,7,Sevilla
+la_liga,2015,8,Malaga
+la_liga,2015,9,Real Sociedad
+la_liga,2015,10,Real Betis
+la_liga,2015,11,Las Palmas
+la_liga,2015,12,Valencia
+la_liga,2015,13,Espanyol
+la_liga,2015,14,Eibar
+la_liga,2015,15,Deportivo La Coruna
+la_liga,2015,16,Granada
+la_liga,2015,17,Sporting Gijon
+la_liga,2015,18,Rayo Vallecano
+la_liga,2015,19,Getafe
+la_liga,2015,20,Levante
+la_liga,2014,1,Barcelona
+la_liga,2014,2,Real Madrid
+la_liga,2014,3,Atletico Madrid
+la_liga,2014,4,Valencia
+la_liga,2014,5,Sevilla
+la_liga,2014,6,Villarreal
+la_liga,2014,7,Athletic Bilbao
+la_liga,2014,8,Celta Vigo
+la_liga,2014,9,Malaga
+la_liga,2014,10,Espanyol
+la_liga,2014,11,Rayo Vallecano
+la_liga,2014,12,Real Sociedad
+la_liga,2014,13,Elche
+la_liga,2014,14,Levante
+la_liga,2014,15,Getafe
+la_liga,2014,16,Deportivo La Coruna
+la_liga,2014,17,Granada
+la_liga,2014,18,Eibar
+la_liga,2014,19,Almeria
+la_liga,2014,20,Cordoba
+la_liga,2013,1,Atletico Madrid
+la_liga,2013,2,Barcelona
+la_liga,2013,3,Real Madrid
+la_liga,2013,4,Athletic Bilbao
+la_liga,2013,5,Sevilla
+la_liga,2013,6,Villarreal
+la_liga,2013,7,Real Sociedad
+la_liga,2013,8,Valencia
+la_liga,2013,9,Celta Vigo
+la_liga,2013,10,Levante
+la_liga,2013,11,Malaga
+la_liga,2013,12,Rayo Vallecano
+la_liga,2013,13,Getafe
+la_liga,2013,14,Espanyol
+la_liga,2013,15,Granada
+la_liga,2013,16,Elche
+la_liga,2013,17,Almeria
+la_liga,2013,18,Osasuna
+la_liga,2013,19,Real Valladolid
+la_liga,2013,20,Real Betis
+la_liga,2012,1,Barcelona
+la_liga,2012,2,Real Madrid
+la_liga,2012,3,Atletico Madrid
+la_liga,2012,4,Real Sociedad
+la_liga,2012,5,Valencia
+la_liga,2012,6,Malaga
+la_liga,2012,7,Real Betis
+la_liga,2012,8,Rayo Vallecano
+la_liga,2012,9,Sevilla
+la_liga,2012,10,Getafe
+la_liga,2012,11,Levante
+la_liga,2012,12,Athletic Bilbao
+la_liga,2012,13,Espanyol
+la_liga,2012,14,Real Valladolid
+la_liga,2012,15,Granada
+la_liga,2012,16,Osasuna
+la_liga,2012,17,Celta Vigo
+la_liga,2012,18,Real Mallorca
+la_liga,2012,19,Deportivo La Coruna
+la_liga,2012,20,Real Zaragoza
+la_liga,2011,1,Real Madrid
+la_liga,2011,2,Barcelona
+la_liga,2011,3,Valencia
+la_liga,2011,4,Malaga
+la_liga,2011,5,Atletico Madrid
+la_liga,2011,6,Levante
+la_liga,2011,7,Osasuna
+la_liga,2011,8,Real Mallorca
+la_liga,2011,9,Sevilla
+la_liga,2011,10,Athletic Bilbao
+la_liga,2011,11,Getafe
+la_liga,2011,12,Real Sociedad
+la_liga,2011,13,Real Betis
+la_liga,2011,14,Espanyol
+la_liga,2011,15,Rayo Vallecano
+la_liga,2011,16,Real Zaragoza
+la_liga,2011,17,Granada
+la_liga,2011,18,Villarreal
+la_liga,2011,19,Sporting Gijon
+la_liga,2011,20,Racing Santander
+la_liga,2010,1,Barcelona
+la_liga,2010,2,Real Madrid
+la_liga,2010,3,Valencia
+la_liga,2010,4,Villarreal
+la_liga,2010,5,Sevilla
+la_liga,2010,6,Athletic Bilbao
+la_liga,2010,7,Atletico Madrid
+la_liga,2010,8,Espanyol
+la_liga,2010,9,Osasuna
+la_liga,2010,10,Sporting Gijon
+la_liga,2010,11,Malaga
+la_liga,2010,12,Racing Santander
+la_liga,2010,13,Real Zaragoza
+la_liga,2010,14,Levante
+la_liga,2010,15,Real Sociedad
+la_liga,2010,16,Getafe
+la_liga,2010,17,Real Mallorca
+la_liga,2010,18,Deportivo La Coruna
+la_liga,2010,19,Hercules
+la_liga,2010,20,Almeria
+la_liga,2009,1,Barcelona
+la_liga,2009,2,Real Madrid
+la_liga,2009,3,Valencia
+la_liga,2009,4,Sevilla
+la_liga,2009,5,Real Mallorca
+la_liga,2009,6,Getafe
+la_liga,2009,7,Villarreal
+la_liga,2009,8,Athletic Bilbao
+la_liga,2009,9,Atletico Madrid
+la_liga,2009,10,Deportivo La Coruna
+la_liga,2009,11,Espanyol
+la_liga,2009,12,Osasuna
+la_liga,2009,13,Almeria
+la_liga,2009,14,Real Zaragoza
+la_liga,2009,15,Sporting Gijon
+la_liga,2009,16,Racing Santander
+la_liga,2009,17,Malaga
+la_liga,2009,18,Tenerife
+la_liga,2009,19,Real Valladolid
+la_liga,2009,20,Xerez
+la_liga,2008,1,Barcelona
+la_liga,2008,2,Real Madrid
+la_liga,2008,3,Sevilla
+la_liga,2008,4,Atletico Madrid
+la_liga,2008,5,Villarreal
+la_liga,2008,6,Valencia
+la_liga,2008,7,Deportivo La Coruna
+la_liga,2008,8,Malaga
+la_liga,2008,9,Real Mallorca
+la_liga,2008,10,Espanyol
+la_liga,2008,11,Almeria
+la_liga,2008,12,Racing Santander
+la_liga,2008,13,Athletic Bilbao
+la_liga,2008,14,Sporting Gijon
+la_liga,2008,15,Real Valladolid
+la_liga,2008,16,Osasuna
+la_liga,2008,17,Getafe
+la_liga,2008,18,Real Betis
+la_liga,2008,19,Numancia
+la_liga,2008,20,Recreativo Huelva
+la_liga,2007,1,Real Madrid
+la_liga,2007,2,Villarreal
+la_liga,2007,3,Barcelona
+la_liga,2007,4,Atletico Madrid
+la_liga,2007,5,Sevilla
+la_liga,2007,6,Racing Santander
+la_liga,2007,7,Real Mallorca
+la_liga,2007,8,Almeria
+la_liga,2007,9,Deportivo La Coruna
+la_liga,2007,10,Valencia
+la_liga,2007,11,Athletic Bilbao
+la_liga,2007,12,Espanyol
+la_liga,2007,13,Real Betis
+la_liga,2007,14,Getafe
+la_liga,2007,15,Real Valladolid
+la_liga,2007,16,Recreativo Huelva
+la_liga,2007,17,Osasuna
+la_liga,2007,18,Real Zaragoza
+la_liga,2007,19,Murcia
+la_liga,2007,20,Levante
+prem_league,2018,1,Manchester City
+prem_league,2018,2,Liverpool
+prem_league,2018,3,Chelsea
+prem_league,2018,4,Tottenham Hotspur
+prem_league,2018,5,Arsenal
+prem_league,2018,6,Manchester United
+prem_league,2018,7,Wolverhampton Wanderes
+prem_league,2018,8,Everton
+prem_league,2018,9,Leicester City
+prem_league,2018,10,West Ham United
+prem_league,2018,11,Watford
+prem_league,2018,12,Crystal Palace
+prem_league,2018,13,Newcastle United
+prem_league,2018,14,Bournemouth
+prem_league,2018,15,Burnley
+prem_league,2018,16,Southampton
+prem_league,2018,17,Brighton and Hove Albion
+prem_league,2018,18,Cardiff City
+prem_league,2018,19,Fulham
+prem_league,2018,20,Huddersfield Town
+prem_league,2017,1,Manchester City
+prem_league,2017,2,Manchester United
+prem_league,2017,3,Tottenham Hotspur
+prem_league,2017,4,Liverpool
+prem_league,2017,5,Chelsea
+prem_league,2017,6,Arsenal
+prem_league,2017,7,Burnley
+prem_league,2017,8,Everton
+prem_league,2017,9,Leicester City
+prem_league,2017,10,Newcastle United
+prem_league,2017,11,Crystal Palace
+prem_league,2017,12,Bournemouth
+prem_league,2017,13,West Ham United
+prem_league,2017,14,Watford
+prem_league,2017,15,Brighton and Hove Albion
+prem_league,2017,16,Huddersfield Town
+prem_league,2017,17,Southampton
+prem_league,2017,18,Swansea City
+prem_league,2017,19,Stoke City
+prem_league,2017,20,West Bromwich Albion
+prem_league,2016,1,Chelsea
+prem_league,2016,2,Tottenham Hotspur
+prem_league,2016,3,Manchester City
+prem_league,2016,4,Liverpool
+prem_league,2016,5,Arsenal
+prem_league,2016,6,Manchester United
+prem_league,2016,7,Everton
+prem_league,2016,8,Southampton
+prem_league,2016,9,Bournemouth
+prem_league,2016,10,West Bromwich Albion
+prem_league,2016,11,West Ham United
+prem_league,2016,12,Leicester City
+prem_league,2016,13,Stoke City
+prem_league,2016,14,Crystal Palace
+prem_league,2016,15,Swansea City
+prem_league,2016,16,Burnley
+prem_league,2016,17,Watford
+prem_league,2016,18,Hull City
+prem_league,2016,19,Middlesbrough
+prem_league,2016,20,Sunderland
+prem_league,2015,1,Leicester City
+prem_league,2015,2,Arsenal
+prem_league,2015,3,Tottenham Hotspur
+prem_league,2015,4,Manchester City
+prem_league,2015,5,Manchester United
+prem_league,2015,6,Southampton
+prem_league,2015,7,West Ham United
+prem_league,2015,8,Liverpool
+prem_league,2015,9,Stoke City
+prem_league,2015,10,Chelsea
+prem_league,2015,11,Everton
+prem_league,2015,12,Swansea City
+prem_league,2015,13,Watford
+prem_league,2015,14,West Bromwich Albion
+prem_league,2015,15,Crystal Palace
+prem_league,2015,16,Bournemouth
+prem_league,2015,17,Sunderland
+prem_league,2015,18,Newcastle United
+prem_league,2015,19,Norwich City
+prem_league,2015,20,Aston Villa
+prem_league,2014,1,Chelsea
+prem_league,2014,2,Manchester City
+prem_league,2014,3,Arsenal
+prem_league,2014,4,Manchester United
+prem_league,2014,5,Tottenham Hotspur
+prem_league,2014,6,Liverpool
+prem_league,2014,7,Southampton
+prem_league,2014,8,Swansea City
+prem_league,2014,9,Stoke City
+prem_league,2014,10,Crystal Palace
+prem_league,2014,11,Everton
+prem_league,2014,12,West Ham United
+prem_league,2014,13,West Bromwich Albion
+prem_league,2014,14,Leicester City
+prem_league,2014,15,Newcastle United
+prem_league,2014,16,Sunderland
+prem_league,2014,17,Aston Villa
+prem_league,2014,18,Hull City
+prem_league,2014,19,Burnley
+prem_league,2014,20,Queens Park Rangers
+prem_league,2013,1,Manchester City
+prem_league,2013,2,Liverpool
+prem_league,2013,3,Chelsea
+prem_league,2013,4,Arsenal
+prem_league,2013,5,Everton
+prem_league,2013,6,Tottenham Hotspur
+prem_league,2013,7,Manchester United
+prem_league,2013,8,Southampton
+prem_league,2013,9,Stoke City
+prem_league,2013,10,Newcastle United
+prem_league,2013,11,Crystal Palace
+prem_league,2013,12,Swansea City
+prem_league,2013,13,West Ham United
+prem_league,2013,14,Sunderland
+prem_league,2013,15,Aston Villa
+prem_league,2013,16,Hull City
+prem_league,2013,17,West Bromwich Albion
+prem_league,2013,18,Norwich City
+prem_league,2013,19,Fulham
+prem_league,2013,20,Cardiff City
+prem_league,2012,1,Manchester United
+prem_league,2012,2,Manchester City
+prem_league,2012,3,Chelsea
+prem_league,2012,4,Arsenal
+prem_league,2012,5,Tottenham Hotspur
+prem_league,2012,6,Everton
+prem_league,2012,7,Liverpool
+prem_league,2012,8,West Bromwich Albion
+prem_league,2012,9,Swansea City
+prem_league,2012,10,West Ham United
+prem_league,2012,11,Norwich City
+prem_league,2012,12,Fulham
+prem_league,2012,13,Stoke City
+prem_league,2012,14,Southampton
+prem_league,2012,15,Aston Villa
+prem_league,2012,16,Newcastle United
+prem_league,2012,17,Sunderland
+prem_league,2012,18,Wigan Athletic
+prem_league,2012,19,Reading
+prem_league,2012,20,Queens Park Rangers
+prem_league,2011,1,Manchester City
+prem_league,2011,2,Manchester United
+prem_league,2011,3,Arsenal
+prem_league,2011,4,Tottenham Hotspur
+prem_league,2011,5,Newcastle United
+prem_league,2011,6,Chelsea
+prem_league,2011,7,Everton
+prem_league,2011,8,Liverpool
+prem_league,2011,9,Fulham
+prem_league,2011,10,West Bromwich Albion
+prem_league,2011,11,Swansea City
+prem_league,2011,12,Norwich City
+prem_league,2011,13,Sunderland
+prem_league,2011,14,Stoke City
+prem_league,2011,15,Wigan Athletic
+prem_league,2011,16,Aston Villa
+prem_league,2011,17,Queens Park Rangers
+prem_league,2011,18,Bolton Wanderers
+prem_league,2011,19,Blackburn Rovers
+prem_league,2011,20,Wolverhampton Wanderes
+prem_league,2010,1,Manchester United
+prem_league,2010,2,Chelsea
+prem_league,2010,3,Manchester City
+prem_league,2010,4,Arsenal
+prem_league,2010,5,Tottenham Hotspur
+prem_league,2010,6,Liverpool
+prem_league,2010,7,Everton
+prem_league,2010,8,Fulham
+prem_league,2010,9,Aston Villa
+prem_league,2010,10,Sunderland
+prem_league,2010,11,West Bromwich Albion
+prem_league,2010,12,Newcastle United
+prem_league,2010,13,Stoke City
+prem_league,2010,14,Bolton Wanderers
+prem_league,2010,15,Blackburn Rovers
+prem_league,2010,16,Wigan Athletic
+prem_league,2010,17,Wolverhampton Wanderes
+prem_league,2010,18,Birmingham City
+prem_league,2010,19,Blackpool
+prem_league,2010,20,West Ham United
+prem_league,2009,1,Chelsea
+prem_league,2009,2,Manchester United
+prem_league,2009,3,Arsenal
+prem_league,2009,4,Tottenham Hotspur
+prem_league,2009,5,Manchester City
+prem_league,2009,6,Aston Villa
+prem_league,2009,7,Liverpool
+prem_league,2009,8,Everton
+prem_league,2009,9,Birmingham City
+prem_league,2009,10,Blackburn Rovers
+prem_league,2009,11,Stoke City
+prem_league,2009,12,Fulham
+prem_league,2009,13,Sunderland
+prem_league,2009,14,Bolton Wanderers
+prem_league,2009,15,Wolverhampton Wanderes
+prem_league,2009,16,Wigan Athletic
+prem_league,2009,17,West Ham United
+prem_league,2009,18,Burnley
+prem_league,2009,19,Hull City
+prem_league,2009,20,Portsmouth
+prem_league,2008,1,Manchester United
+prem_league,2008,2,Liverpool
+prem_league,2008,3,Chelsea
+prem_league,2008,4,Arsenal
+prem_league,2008,5,Everton
+prem_league,2008,6,Aston Villa
+prem_league,2008,7,Fulham
+prem_league,2008,8,Tottenham Hotspur
+prem_league,2008,9,West Ham United
+prem_league,2008,10,Manchester City
+prem_league,2008,11,Wigan Athletic
+prem_league,2008,12,Stoke City
+prem_league,2008,13,Bolton Wanderers
+prem_league,2008,14,Portsmouth
+prem_league,2008,15,Blackburn Rovers
+prem_league,2008,16,Sunderland
+prem_league,2008,17,Hull City
+prem_league,2008,18,Newcastle United
+prem_league,2008,19,Middlesbrough
+prem_league,2008,20,West Bromwich Albion
