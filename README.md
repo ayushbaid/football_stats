@@ -2,7 +2,7 @@ It is a well known belief among football (soccer) fans that the English premier 
 
 * TOC
 {:toc}
-### Year on Year Ranking
+## Year on Year Ranking
 
 I created a matrix which counts the tuple of (rank in current year, rank in next year). I consider the top 17 ranks in the current year,  as the bottom three teams will be relegated. 
 
@@ -23,3 +23,22 @@ Here are the matrices for the first division leagues of England (premier league)
 * The top four spot has very low competition in la liga
 * The rankings in middle of the table do not change very much y-o-y for the premier league
 * The premeir league's relegation zone seems more predictable
+
+
+
+## Competitiveness Map
+
+For a given team on a match-day, I count the number of teams which are within 2 points. The reasoning behind the number *2* is that the given team can swap rankings with the other team if it is within 2 points. This swaps is what makes a league competition more interesting, day over day.
+
+I normalise the counts by 5, and cap the metric to a max value of 1. Hence, the metric takes a value of 0 is there are no teams within 2 points, 0.2 if there is one other team, and 1 is there are more than 4 teams.
+
+To generate the final map, I take the median value for each team rank and match-day across the years.
+
+ ![prem_comp_map](./competitiveness/prem.png) 
+ ![laliga_comp_map](./competitiveness/laliga.png) 
+
+#### Observations
+
+* The top ranks become remain more competitive in the premier league till half the matches are played. After that they are fairly similar
+* The third quadrant of the points table is much more competitive in La Liga.
+* The relegation zone has higher competition in la liga compared to the premier league
