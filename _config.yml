@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Competitiveness analysis among football leagues
-description: My dabblings into coming up with a metric for competition between teams in a sports league
+title: Competition in football leagues
+description: Analysing the competitiveness of sports leagues
+plugins:
+  - jekyll-seo-tag
