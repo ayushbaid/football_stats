@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: Competition in football leagues
 description: Analysing the competitiveness of sports leagues
 plugins:
   - jekyll-seo-tag
+show_downloads: false
